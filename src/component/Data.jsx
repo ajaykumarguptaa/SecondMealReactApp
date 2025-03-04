@@ -146,12 +146,12 @@ const Data = () => {
               alt="Some Error Found"
               srcset=""
               style={{
-                width: "320px",
+                width: "300px",
                 borderRadius: "1rem",
                 border: "0.1rem solid grey",
               }}
             />
-            <h3 style={{ fontSize: "1.3rem", paddingTop: ".5rem" }}>
+            <h3 style={{ fontSize: "1.1rem", paddingTop: ".5rem" }}>
               Name: {item.strMeal}
             </h3>
           </div>
